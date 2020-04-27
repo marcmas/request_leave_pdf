@@ -9,7 +9,9 @@ Forms where can send a request to leave work and later display it in pdf and pri
 3. Install wkhtmltopdf.exe
 4. Change the patch
 ![alt text](https://raw.githubusercontent.com/marcmas/request_leave_pdf/master/wkgtmltopdf.png) 
-3. Run the server
+5. Make migrations (login: user, password:Testing-123)
+5. Run the server
+
 
 ## Built With
 
